@@ -1,0 +1,49 @@
+.top-center {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.centered {
+  margin: 0 auto;
+}
+
+img {
+	width: 100%;
+}
+
+.card {
+	background-color: #f7f7f7;
+	border: 2px solid #EFEFEF;
+	padding: 8px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: normal;
+}
+.card .title {
+	font-weight: bold;
+	font-size: 14px;
+}
+.card .date {
+	font-weight: bold;
+	font-size: 12px;
+}
+
+body {
+  background-color: #EFEFEF !important;
+	padding: 50px;
+}
+
+footer {
+	background-color: #EFEFEF;
+	color: black;
+	padding: 15px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 50px;
+	position: fixed;
+	border-top: 1px solid black;
+
+}
+footer a {
+  color: black;
+}
